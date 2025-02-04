@@ -357,7 +357,7 @@ color: blanchedalmond;
   font-family: "Anton", sans-serif;
 }
 .home1{
-  /* color: rgb(12, 1, 1); */
+   color: rgb(189, 235, 116); 
   font-family: "Anton", sans-serif;
 }
 .menu1{
@@ -365,7 +365,7 @@ color: blanchedalmond;
   
 }
 .home3{
-  color: rgb(16, 16, 17);
+  color: rgb(234, 234, 240);
   font-family: "Anton", sans-serif;
 }
  @media only screen and (max-width: 700px) {
